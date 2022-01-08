@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(8-Petronas-Tower-www.desktopbackgrounds.me.jpg);
+    display: flex;
+    height: 500px;
+}
+header ul {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: 230px;
+    margin-top: 15px;
+
+}
+ header ul li{
+     margin-left: 120px;
+     list-style: none;
+ }
+ header ul li a {
+    text-decoration: none;
+    color: white;
+    font-family:monospace ;
+}
+
+header h3{
+    font-family: cursive;
+    color: white;
+    margin-top: 15px;
+    margin-left: 50px;
+}   
+
+.orta{ 
+    width: 500px;
+    text-align: center;
+    margin-left: -570px;
+    margin-top: 180px;
+}
+
+.orta h1{
+    color: white;
+}
+.orta p{
+    color: white;
+}
+
+.orta button{
+    margin-left: -30px;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -10px;
+}
+
+.about{
+    width: 500px;   
+    display: flex;
+    height:auto;
+    margin-left: 150px;
+}
+.about p{
+    font-size: 12px;
+    color: rgb(3, 3, 61);
+    width: 500px;
+}
+
+.about h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: purple;
+
+}
+.pop{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    margin-left: 100px;
+}
+.pop span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: greenyellow;
+    font-weight: bold;
+}
+
+.happy{
+    display: flex;
+    width: 900px;
+}
+
+.kok{
+    width: 400px;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.ikonka{
+    text-align: center;
+    background-color: grey;
+    width: 300px;
+}
+
+.lampa{
+    display: flex;
+    justify-content: space-between;
+}
+
+.latest {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: 130px;
+}
+.hub{
+    margin-top: 50px;
+}
+
+.jub{
+    display: flex;
+    align-items: center;
+}
+.news{
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+}
+
+footer h2{
+    font-family: monospace;
+    margin-left: 170px;
+}
